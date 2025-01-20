@@ -7,7 +7,7 @@ export interface QuizSlice {
 }
 
 export const initialQuizSlice: QuizSlice = {
-    questions: QUESTIONS, 
-    answers: [2, 2]
+    questions: QUESTIONS,
+    answers: []
 }
 
